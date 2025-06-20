@@ -1,0 +1,71 @@
+[33mcommit ec80b7cd2f7b8e806218df05da373da3c990dcf7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 15:01:15 2025 +0530
+
+    arm_strong.c has been written
+
+[33mcommit 845788040c30c667f212f05df3999b302820506b[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:34:27 2025 +0530
+
+    fibonacci.c has been written
+
+[33mcommit 9dd63ac11318ad643ddff290da9daa0e5655e536[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:32:15 2025 +0530
+
+    palin.c has been written
+
+[33mcommit 8e9a7c1276348c67cf6ee5142a03c0fcfc4f16ef[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:30:51 2025 +0530
+
+    leap.c has been written
+
+[33mcommit 71bb86bd2e2b0dfd30875e59abfa6340ee8a5ad5[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:29:24 2025 +0530
+
+    swap.c has been written
+
+[33mcommit eb03dee1e6b48ce38c01c6ac137b4575669d3759[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:27:21 2025 +0530
+
+    reverse.c has been written
+
+[33mcommit c371ae17121717352efb9fdf4b2f41a866862bd7[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:25:27 2025 +0530
+
+    check.c has been written
+
+[33mcommit c3c87d84be48679e3939e1cd1143bd3d5071b4c1[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:22:04 2025 +0530
+
+    fact.c has been written
+
+[33mcommit 54a31588cadfeaa11a76b98c788668eac186360d[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:20:05 2025 +0530
+
+    prime.c has been written
+
+[33mcommit 46d8d863ad4420f59c8e91ba4eee733c639668dc[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:16:30 2025 +0530
+
+    Hello.c is modified
+
+[33mcommit d6c29cacfa6e7a99d7c0120d2d7010c714428b8b[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:10:51 2025 +0530
+
+    Hello.c is added
+
+[33mcommit 48b20457a5c69c335dc3e458e69cb7d4b3e3d6cf[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Sanguine <sanguinenerella@gmail.com>
+Date:   Fri Jun 20 14:07:13 2025 +0530
+
+    Initial commit
